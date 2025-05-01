@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.chamoda.nethra.biometric_signature-release-31:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/infinitiesiddhi/.gradle/caches/8.10.2/transforms/3b573621f87e9cb7cd456c435dfb9ed3/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.chamoda.nethra.biometric_signature-mergeReleaseResources-29:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/infinitiesiddhi/.gradle/caches/8.10.2/transforms/3b573621f87e9cb7cd456c435dfb9ed3/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

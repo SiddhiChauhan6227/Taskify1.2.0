@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/infinitiesiddhi/.pub-cache/hosted/pub.dev/biometric_signature-5.1.3/android"
+    name=":biometric_signature"
+    type="LIBRARY"
+    maven="com.chamoda.nethra.biometric_signature:biometric_signature:1.0-SNAPSHOT"
+    agpVersion="8.5.0"
+    buildFolder="/Users/infinitiesiddhi/Desktop/taskify-flutter/build/biometric_signature"
+    bootClassPath="/Users/infinitiesiddhi/Library/Android/sdk/platforms/android-34/android.jar:/Users/infinitiesiddhi/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

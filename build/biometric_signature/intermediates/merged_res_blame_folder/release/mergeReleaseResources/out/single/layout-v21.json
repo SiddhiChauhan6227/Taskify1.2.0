@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/layout-v21/notification_action.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">208242375433-h3umnf23tqtjjs0pvslvapto11l317qp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://taskify-210db-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">208242375433</string>
+    <string name="google_api_key" translatable="false">AIzaSyCA6OZvX5S53v_TYn-w_kQ12qNbVik-fkY</string>
+    <string name="google_app_id" translatable="false">1:208242375433:android:e62e53c707c9e2a0e131d8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCA6OZvX5S53v_TYn-w_kQ12qNbVik-fkY</string>
+    <string name="google_storage_bucket" translatable="false">taskify-210db.appspot.com</string>
+    <string name="project_id" translatable="false">taskify-210db</string>
+    <style name="LaunchTheme" parent="Theme.AppCompat.DayNight">        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

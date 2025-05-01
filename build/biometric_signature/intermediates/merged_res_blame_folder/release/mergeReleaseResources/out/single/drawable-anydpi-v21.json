@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/drawable-anydpi-v21/ic_call_answer_video.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/drawable-anydpi-v21/ic_call_answer_video.xml"
+    },
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/drawable-anydpi-v21/ic_call_decline.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/drawable-anydpi-v21/ic_call_decline.xml"
+    },
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/drawable-anydpi-v21/ic_call_answer.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/drawable-anydpi-v21/ic_call_answer.xml"
+    },
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/drawable-anydpi-v21/fingerprint_dialog_fp_icon.xml",
+        "source": "com.chamoda.nethra.biometric_signature-biometric-1.2.0-alpha05-17:/drawable-anydpi-v21/fingerprint_dialog_fp_icon.xml"
+    },
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/drawable-anydpi-v21/ic_call_answer_video_low.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/drawable-anydpi-v21/ic_call_answer_video_low.xml"
+    },
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/drawable-anydpi-v21/ic_call_answer_low.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/drawable-anydpi-v21/ic_call_answer_low.xml"
+    },
+    {
+        "merged": "com.chamoda.nethra.biometric_signature-release-31:/drawable-anydpi-v21/ic_call_decline_low.xml",
+        "source": "com.chamoda.nethra.biometric_signature-core-1.13.1-14:/drawable-anydpi-v21/ic_call_decline_low.xml"
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.chamoda.nethra.biometric_signature-release-31:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/infinitiesiddhi/.gradle/caches/8.10.2/transforms/3b573621f87e9cb7cd456c435dfb9ed3/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.chamoda.nethra.biometric_signature-mergeReleaseResources-29:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/infinitiesiddhi/.gradle/caches/8.10.2/transforms/3b573621f87e9cb7cd456c435dfb9ed3/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/infinitiesiddhi/.pub-cache/hosted/pub.dev/libphonenumber_plugin-0.3.3/android"
+    name=":libphonenumber_plugin"
+    type="LIBRARY"
+    maven="com.example.libphonenumber_plugin:libphonenumber_plugin:1.0-SNAPSHOT"
+    agpVersion="8.5.0"
+    buildFolder="/Users/infinitiesiddhi/Desktop/taskify-flutter/build/libphonenumber_plugin"
+    bootClassPath="/Users/infinitiesiddhi/Library/Android/sdk/platforms/android-31/android.jar:/Users/infinitiesiddhi/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
